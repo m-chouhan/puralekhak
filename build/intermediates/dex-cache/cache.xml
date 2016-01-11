@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/maximus_prime/AndroidStudioProjects/Fonts/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="537cdb2c01367f6de0e5c8ec727807df244fe2c2">
+        <dex dex="/home/maximus_prime/AndroidStudioProjects/Fonts/android/build/intermediates/pre-dexed/debug/core-1.0-41ac0522abde927a7ce792c121d34c0fea1612d1.jar" />
+    </item>
+
+</items>
